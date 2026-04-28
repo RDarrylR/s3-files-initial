@@ -1,0 +1,4 @@
+aws_region   = "us-east-1"
+aws_profile  = "your-profile"
+environment  = "dev"
+project_name = "s3-files-demo"
