@@ -173,7 +173,7 @@ This tears down all Terraform-managed AWS resources. Don't forget - the EC2 inst
 
 ## Related Blog Posts
 
-- [S3 Files: The End of Download-Process-Upload](https://darryl-ruggles.cloud/s3-files-the-end-of-download-process-upload) - The blog post this repo accompanies
+- [S3 Files: The End of Download-Process-Upload](https://darryl-ruggles.cloud/s3-files-the-end-of-download-process-upload-with-terraform/) - The blog post this repo accompanies
 - [Lambda Managed Instances with Terraform](https://darryl-ruggles.cloud/lambda-managed-instances-with-terraform-multi-concurrency-high-memory-and-compute-options) - High-memory Lambda patterns that complement S3 Files
 - [Powertools for AWS Lambda - Best Practices By Default](https://darryl-ruggles.cloud/powertools-for-aws-lambda-best-practices-by-default) - Observability patterns used in this project
 - [EKS Auto Mode with Terraform](https://darryl-ruggles.cloud/eks-auto-mode-with-terraform) - Another infrastructure-as-code deep dive
